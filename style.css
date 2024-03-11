@@ -1,0 +1,22 @@
+.nav{
+background-color:white;
+color: red;
+border:1px solid yellow;
+margin-bottom: 0px;
+padding: 3px;
+}
+.red{
+    background-color:#e80000;
+    border-color: yellow;
+}
+.green{
+    color: white;
+}
+.blue{
+    background-color: #581212;
+    margin-bottom: 100px;
+    padding-bottom: 10px;
+}
+.aisha{
+    border-color: yellow;
+}
